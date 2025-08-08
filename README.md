@@ -92,7 +92,7 @@
 
 **Featured Repositories:**
 
-- [**dashboards**](https://github.com/afreeentity/dashboards): A toolbox of reusable code snippets and patterns mainly focused on dashboards in different disciplines.
+- [**Dashboards**](https://github.com/afreeentity/Dashboards): A toolbox of reusable code snippets and patterns mainly focused on dashboards in different disciplines.
 - [**WispOfLogic**](https://github.com/afreeentity/WispOfLogic): Small experimental projects exploring sensors, Arduino, RaspberryPi and more...
 - [**ArcaneDBs**](https://github.com/afreeentity/ArcaneDBs): A mystical framework for experiment, blending databases, data manipulation and cutting-edge libraries.
 
