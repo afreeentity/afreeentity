@@ -5,8 +5,8 @@
 - 🌐 **Realms of Expertise:**  
   I explore various domains—web, backend, DevOps, data science—and love learning new languages and tools.  
 - 🚀 **Current Quests:**  
-  - Mastering **Rust** for systems programming.
-  - Enhancing my **Microcontroller** and **IoT** enchantments.
+  - Mastering **Kutlin** for systems programming for UHA project.
+  - Enhancing my **Microcontroller** and **IoT** enchantments for 3M3R.
   - Delving deeper into **Python** and **R** data analysis and **machine learning**.
   - New upgrades for **Data Engineering**.
   
