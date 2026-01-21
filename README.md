@@ -92,9 +92,10 @@
 
 **Featured Repositories:**
 
+- [**EnchantedRoutines**](https://github.com/afreeentity/EnchantedRoutines): Where I recollect classical machine learning and deep learning concepts. The longer plan is to converge it to a perfect dashboard.
 - [**Dashboards**](https://github.com/afreeentity/Dashboards): A toolbox of reusable code snippets and patterns mainly focused on dashboards in different disciplines.
-- [**WispOfLogic**](https://github.com/afreeentity/WispOfLogic): Small experimental projects exploring sensors, Arduino, RaspberryPi and more...
-- [**ArcaneDBs**](https://github.com/afreeentity/ArcaneDBs): A mystical framework for experiment, blending databases, data manipulation and cutting-edge libraries.
+- [**UHA**]: A Private repository for personal experimental project exploring sensors, android apps, and more... (Stay Tuned for the Product)
+- [**3R3M**]: A private repository of mystical robotics and ML for experiment!
 
 ---
 
